@@ -12,7 +12,7 @@ This is mostly a placeholder at the moment, but I think this learning group coul
 - the theory: the underlying concepts that power the algorithms
 - the social: the possible or present impacts of the deployment of AI systems
 - the philosophical: if desired we can also talk about implications AI has for the place of humans, consciousness, etc
-- the interaction: how experiences/interactions with AI are designed
+- the integration: how experiences/interactions with AI are designed
 
 I think that covers it?
 
