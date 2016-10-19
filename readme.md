@@ -1,4 +1,4 @@
-![Emulating Intelligence](brand.svg)
+![Emulating Intelligence](brand.png)
 
 # Emulating Intelligence
 
